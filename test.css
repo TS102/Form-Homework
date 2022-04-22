@@ -1,0 +1,14 @@
+
+.form {
+border: 1px solid black;
+text-align: center;
+Margin: 100px 150px 1000px 150px;
+font-family: 'Square Peg', cursive;
+font-family: 'Updock', cursive;
+} 
+#Submit{
+Width: 80%;
+}
+.Form-FN{
+    border: 0;
+}
